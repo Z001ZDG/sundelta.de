@@ -197,4 +197,3 @@ Die Struktur ist sofort einsatzbereit für Terragrunt & OpenTofu.
 * vorbereiteter GitHub Actions Pipeline?
 
 Dann kann ich dir ein voll lauffähiges Beispiel-Repo erzeugen.
-
